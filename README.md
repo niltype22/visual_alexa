@@ -15,3 +15,4 @@ Be able to make eye contact with a camera, and raise a number of fingers at the 
 Photos of multiple hand gestures and eye placement ranging from different races, and face shapes
 
 # Technology stack
+Host and train on google collab for the free gpu
