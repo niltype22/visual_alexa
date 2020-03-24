@@ -1,4 +1,4 @@
-# Hand Gesture Alexa
+# Hand Gesture Alexa (Tentative plan, please update with improvements)
 A model for detecting eye contact and hand gestures for triggering home automation.
 
 # Goal for Repo
