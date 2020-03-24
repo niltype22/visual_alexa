@@ -8,6 +8,6 @@ Create a model that can run locally, that can detect direct eye contact, as well
 Be able to make eye contact with a camera, and raise a number of fingers at the same time to trigger home automation, like turning off the lights.
 
 # Plan to get data
-tbd
+Photos of multiple hand gestures and eye placement
 
 # Technology stack
