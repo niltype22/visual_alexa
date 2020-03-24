@@ -1,5 +1,5 @@
 # Hand Gesture Alexa (Tentative plan, please update with improvements)
-A model for detecting eye contact and hand gestures for triggering home automation.
+A model for detecting eye contact and hand gestures for triggering home automation. The eye contact is used to verify intent, and the gestures are the number of digits the subject has raised, with each number getting mapped to a home automation task.
 
 # Goal for Repo
 Create a model that can run locally (device reqs?), that can detect direct eye contact, as well as how many fingers the person in the image is holding up, with over 98% accuracy, from between 2 and 15 feet away, inside homes.
