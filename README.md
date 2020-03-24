@@ -1,4 +1,4 @@
-# visual_alexa
+# Hand Gesture Alexa
 A model for detecting eye contact and hand gestures for triggering home automation.
 
 # Goal for Repo
